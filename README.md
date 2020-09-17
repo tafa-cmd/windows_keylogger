@@ -1,4 +1,4 @@
-__# About The Tool
+# About The Tool
 
 This is a reconnaissance tool for information gathering. The goal of the windows_keylogger tool is to listen to keystrokes, takes a screenshot, listens and records microphone waves, and to know what are the running processes. The purpose of this tool is to obtain sensitive information about the victim that can used to aid future attacks against them.
 
