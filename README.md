@@ -18,7 +18,7 @@ The code contains five functions:
 * Installing all Modules 
 1. ```pip install Pynput```
 2. ```pip install sounddevice```
-3. ```pip install scripy```
+3. ```pip install scipy```
 4. ```pip install numpy```
 5. ```pip install opencv-python```
 6. ```pip install sounddevice```
