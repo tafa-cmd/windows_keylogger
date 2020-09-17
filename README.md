@@ -15,16 +15,15 @@ The code contains five functions:
 # How To Download It:
 
 * git clone the file
-* Installing all Modules 
+* Install all Modules 
 1. ```pip install Pynput```
 2. ```pip install sounddevice```
 3. ```pip install scipy```
 4. ```pip install numpy```
 5. ```pip install opencv-python```
-6. ```pip install sounddevice```
-7. ```pip install logging```
-8. ```pip install pyautogui```
-9. ```pip install wmi```
+6. ```pip install pyautogui```
+8. ```pip install wmi```
+
 * python windows_keylogger.py
 
 # How to run the code:
